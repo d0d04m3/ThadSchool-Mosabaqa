@@ -50,18 +50,7 @@ var settings = module.exports = {
 
     storageModule: require("./pgstorage"),
 
-    httpNodeCors: {
-        origin: "*",
-        methods: "GET,PUT,POST,DELETE"
-    },
-       codeEditor: {
-            lib: "monaco",
-            options: {
-               
-                theme: "hc-black",
-               
-            }
-        },
+  
     
     
     // Disbled Credential Secret

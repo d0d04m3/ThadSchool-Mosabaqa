@@ -15,8 +15,6 @@
         "heroku"
     ],
     "dependencies": {
-        "feedparser": "latest",
-        "nano": "latest",
         "node-red": "latest",
         "node-red-contrib-aedes": "latest",
         "node-red-contrib-postgresql": "latest",
@@ -40,8 +38,7 @@
         "node-red-contrib-msg-router":"latest",
         "node-red-contrib-simple-message-queue":"latest",
         "node-red-contrib-zapier":"latest",
-        "node-red-node-email":"latest",
-        "redis": "latest",
-        "when": "latest"
+        "node-red-node-email":"latest"
+   
     }
 }
